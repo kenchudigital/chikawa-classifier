@@ -51,5 +51,5 @@ print(f'SSIM: {score}')
 ---
 
 <p align="center">
-  <img src="resulkt.jpg" alt="Result">
+  <img src="result.jpg" alt="Result">
 </p>
