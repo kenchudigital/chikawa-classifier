@@ -46,4 +46,10 @@ print(f'SSIM: {score}')
 - Train the model 
 - CNN model, CrossEntropyLoss, AdamOptimizer
 - And do the classification
+- Predict (softmax)
   
+---
+
+<p align="center">
+  <img src="resulkt.jpg" alt="Result">
+</p>
