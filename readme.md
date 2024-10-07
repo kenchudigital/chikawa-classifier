@@ -50,6 +50,10 @@ print(f'SSIM: {score}')
   
 ---
 
+### Result
+
 <p align="center">
   <img src="result.jpg" alt="Result">
 </p>
+
+See more details in `CNNs/cnn.ipynb`.
