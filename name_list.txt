@@ -1,0 +1,11 @@
+0, Chiikawa
+1, Hachiware
+2, Usagi
+3, Momonga
+4, Kuri-Manjū
+5, Rakko
+6, Shisa
+7, Pajama-Parties
+8, Ponchette-no-Yoroi-san
+9, Rodo-no-Yoroi-san
+10, Ramen-no-Yoroi-san0,Chiikawa
